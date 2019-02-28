@@ -1,2 +1,6 @@
 # GK_lab2
-Zadania do sprawozdania z labolatoriów nr. 2 Grafiki Komputerowej
+Zadanie na zajęcia labolatoryjne z Grafiki Komputerowej
+
+Marek Mrowiec grupa 2a
+
+wariant : [1, 4]
